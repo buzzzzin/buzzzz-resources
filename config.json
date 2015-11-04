@@ -1,6 +1,6 @@
 {
     "url": {
-        "api": "https: //buzzzz-api.herokuapp.com",
-        "chat": "https: //buzzzz-api.herokuapp.com"
+        "api": "https://buzzzz-api.herokuapp.com",
+        "chat": "https://buzzzz-chat.herokuapp.com"
     }
 }
