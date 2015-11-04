@@ -1,0 +1,4 @@
+url {
+ api  : 'https://buzzzz-api.herokuapp.com',
+ chat : 'https://buzzzz-api.herokuapp.com'
+}
